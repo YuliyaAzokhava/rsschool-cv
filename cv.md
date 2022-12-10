@@ -38,9 +38,8 @@
 ---
 ## Languages:
 
-**English**
++ **English**
 + Intermediate (according to the online test at [EFSET](https://www.efset.org/quick-check)
-![EFSET test](https://drive.google.com/file/d/1LtnXmBchwSboybuVtNMG0oAjOBSuWPxX/view?usp=sharing)
 + B1 (Intermediate) (according to EPAM training center)
-**Russian** - Native
-**Ukrainian** - Pre-Intermediate
++ **Russian** - Native
++ **Ukrainian** - Pre-Intermediate
